@@ -44,4 +44,4 @@ console.log("Este es la variable `precioEntrada` y su tipo de dato")
 console.log(precioEntrada);
 console.log(typeof(precioEntrada));
 
-console.log("tremendo quilombo github");
+console.log("tremendo quilombo github aaaaa");
