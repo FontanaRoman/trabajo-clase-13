@@ -45,3 +45,5 @@ console.log(precioEntrada);
 console.log(typeof(precioEntrada));
 
 console.log("tremendo quilombo github aaaaa");
+
+console.log("no me rechaces");
